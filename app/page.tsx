@@ -11,7 +11,7 @@ export default function Home() {
         <div className="space-y-4">
           <h1 className="text-center text-5xl">Blog</h1>
           <p className="text-center text-xl">
-           Sdfxgchvjmb Hesxdrcftvg Gghnvb ghjh de.
+           
           </p>
         </div>
 
